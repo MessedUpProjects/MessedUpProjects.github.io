@@ -3,8 +3,8 @@ title: Project Accelerometer
 author: Brunon
 date: 2022-07-11 12:00:00 +0100
 categories: [Brunon]
-tags: [University]
-pin: true
+tags: [University, Project]
+pin: false
 math: true
 mermaid: true
 render_with_liquid: false

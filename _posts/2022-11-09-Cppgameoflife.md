@@ -3,8 +3,8 @@ title: C++ Game of Life
 author: Brunon
 date: 2022-11-09 12:00:00 +0100
 categories: [Brunon]
-tags: [University]
-pin: true
+tags: [University, Code]
+pin: false
 math: true
 mermaid: true
 render_with_liquid: false
