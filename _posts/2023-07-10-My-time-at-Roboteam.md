@@ -23,9 +23,8 @@ As for what I did throughout my year, my contribution where:
 - Increasing stability of the main frame of the robots
 - Maintaining and fixing the robots
 
-Most of the what I have done has been described on RoboTeam Wiki page: <https://wiki.roboteamtwente.nl/technical/mechanics/robot_22_23>
-
-This paper descitbes our robot and changes that happened during our year: <https://ssl.robocup.org/wp-content/uploads/2023/02/2023_ETDP_RoboTeam_Twente.pdf>
+>Most of the what I have done has been described on RoboTeam Wiki page: <https://wiki.roboteamtwente.nl/technical/mechanics/robot_22_23>
+{: .prompt-tip }
 
 ![Desktop View](/assets/2023-07-10-My-time-at-Roboteam/crate1.jpg){: width="972" height="589" }
 _This is how the storage crate looks on the inside_
@@ -35,6 +34,9 @@ _This is how the storage crate looks on the inside_
 ![Desktop View](/assets/2023-07-10-My-time-at-Roboteam/crate2.jpg){: width="972" height="589" }
 _This is how all fo them look like after putting on stickers (plus a lot o mess in workshop)_
 
+
+>This paper descitbes our robot and changes that happened during our year: <https://ssl.robocup.org/wp-content/uploads/2023/02/2023_ETDP_RoboTeam_Twente.pdf>
+{: .prompt-info }
 
 >RoboTeam Twente website: <https://roboteamtwente.nl/>
 {: .prompt-info }

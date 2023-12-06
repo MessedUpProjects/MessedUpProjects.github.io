@@ -15,8 +15,13 @@ I aimed, for a size of 20x20x15 cm and gave 1 cm for sewing allowence.
 - Nylon mesh (21x21 cm)
 - Zipper (60 cm)
 
-Sewing template with exact dimentions can be downloaded here: <https://MessedUpProjects.github.io/assets/2023-11-29-Packing-cubes/packing-cube-sewing-template-Drawing-v1.pdf>
+>Sewing template with exact dimentions can be downloaded here: <https://MessedUpProjects.github.io/assets/2023-11-29-Packing-cubes/packing-cube-sewing-template-Drawing-v1.pdf>
+{: .prompt-tip }
+![Desktop View](/assets/2023-11-29-Packing-cubes/cube1.jpg){: width="972" height="589" }
 
-Add photos
+![Desktop View](/assets/2023-11-29-Packing-cubes/cube2.jpg){: width="972" height="589" }
+_Finished cubes_
+
+> Have a nice day, Messed Up Cat ฅ^•ﻌ•^ฅ
 
 

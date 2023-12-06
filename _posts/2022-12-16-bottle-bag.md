@@ -13,3 +13,12 @@ Simple construction, fold the canvas in half, fold overcasts and sew the canvas 
 ### BOM
 - Canvas (42x17 cm)
 - Thick belt (30 cm)
+
+![Desktop View](/assets/2022-12-16-bottle-bag/Bottle%20bag.jpg){: width="972" height="589" }
+
+
+
+![Desktop View](/assets/2022-12-16-bottle-bag/bottle%20bag%202.jpg){: width="972" height="589" }
+_Finished bottle bag_
+
+>Have a nice day, Messed Up Cat ฅ^•ﻌ•^ฅ
