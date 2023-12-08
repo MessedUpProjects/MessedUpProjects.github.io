@@ -3,7 +3,7 @@ title: Iron Man Helmet
 author: MessedUpCat
 date: 2021-01-01 21:00:00 +0100
 categories: [MessedUpProjects, 3D-Printing]
-tags: [3d printing, cosplay,mask, old]
+tags: [3D Printing, Cosplay,mask, old]
 render_with_liquid: false
 ---
 

@@ -3,7 +3,7 @@ title: Neuroshim hex storage solution
 author: MessedUpCat
 date: 2021-01-01 21:00:00 +0100
 categories: [MessedUpProjects, Boardgames]
-tags: [3d printing, storage,boardgames, old]
+tags: [3D Printing, storage,boardgames, old]
 render_with_liquid: false
 ---
 
