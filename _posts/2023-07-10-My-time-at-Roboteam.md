@@ -26,12 +26,12 @@ As for what I did throughout my year, my contribution where:
 >Most of the what I have done has been described on RoboTeam Wiki page: <https://wiki.roboteamtwente.nl/technical/mechanics/robot_22_23>
 {: .prompt-tip }
 
-![Desktop View](/assets/2023-07-10-My-time-at-Roboteam/crate1.jpg){: width="972" height="589" }
+![Desktop View](/assets/2023-07-10-My-time-at-Roboteam/crate1.jpg){: width="972" height="589" .rounded-10}
 _This is how the storage crate looks on the inside_
 
 
 
-![Desktop View](/assets/2023-07-10-My-time-at-Roboteam/crate2.jpg){: width="972" height="589" }
+![Desktop View](/assets/2023-07-10-My-time-at-Roboteam/crate2.jpg){: width="972" height="589" .rounded-10}
 _This is how all fo them look like after putting on stickers (plus a lot o mess in workshop)_
 
 

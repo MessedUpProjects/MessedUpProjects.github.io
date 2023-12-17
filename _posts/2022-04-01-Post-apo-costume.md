@@ -12,7 +12,7 @@ I will continue to ware it for events and develop its narration. <br>
 Maybe I'll go to the Old Town with it on...
 
 
-![Desktop View](/assets/2022-04-01-Post-apo-costume/post%20apo.jpg){: width="972" height="589" }
+![Desktop View](/assets/2022-04-01-Post-apo-costume/post%20apo.jpg){: width="972" height="589" .rounded-10}
 _Me in my costume at Elfia 2022_
 
 > It goest well together with my post apo prop gun

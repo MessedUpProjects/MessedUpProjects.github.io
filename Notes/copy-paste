@@ -1,0 +1,50 @@
+
+title: 
+author: Brunon
+date: 2022-07-11 12:00:00 +0100
+categories: [Brunon]
+tags: []
+pin: false
+math: true
+mermaid: true
+render_with_liquid: false
+#comment
+
+>  <link>
+{: .prompt-info }
+
+
+pdf : 
+<object data="path" width="792" height="589" type='application/pdf'> </object>
+
+
+
+> Have a nice day, Brunon
+
+
+
+
+![Desktop View](path){: width="972" height="589" .rounded-10}
+_caption_
+
+
+title: 
+author: MessedUpCat
+date: 2022-12-16 21:00:00 +0100
+categories: [MessedUpProjects, ]
+tags: []
+render_with_liquid: false
+
+
+>Have a nice day, Messed Up Cat ฅ^•ﻌ•^ฅ
+
+
+video 
+
+
+<center>
+<video controls>
+    <source src="/assets/2023-10-25-Wooden-Toolbox/toolbox-WIP-box.mp4" type="video/mp4">
+</video>
+</center>
+_Caption_

@@ -14,10 +14,10 @@ Wooden construction, with opening on the top, and a small drawer at the bottom. 
 >Inspired by Adam savage's toolbox.
 {: .prompt-info }
 
-![Desktop View](/assets/2023-10-25-Wooden-Toolbox/toolbox3.jpg){: width="972" height="589" }
+![Desktop View](/assets/2023-10-25-Wooden-Toolbox/toolbox3.jpg){: width="972" height="589" .rounded-10}
 _The box_
 
-![Desktop View](/assets/2023-10-25-Wooden-Toolbox/toolbox1.jpg){: width="972" height="589" }
+![Desktop View](/assets/2023-10-25-Wooden-Toolbox/toolbox1.jpg){: width="972" height="589" .rounded-10}
 _Central compartment_
 ![Desktop View](/assets/2023-10-25-Wooden-Toolbox/toolbox2.jpg){: width="972" height="589" .rounded-10 }
 _Drawer_
@@ -27,13 +27,13 @@ _Concept drawing of the box_
 
 
 
-![Desktop View](/assets/2023-10-25-Wooden-Toolbox/toolboxWIP.jpg){: width="972" height="589" }
+![Desktop View](/assets/2023-10-25-Wooden-Toolbox/toolboxWIP.jpg){: width="972" height="589" .rounded-10}
 _work in progress_
 <center>
 <video controls>
     <source src="/assets/2023-10-25-Wooden-Toolbox/toolbox-WIP-box.mp4" type="video/mp4">
 </video>
 </center>
-_Hinges work
-_
+_Hinges work_
+
 >Have a nice day, Messed Up Cat ฅ^•ﻌ•^ฅ

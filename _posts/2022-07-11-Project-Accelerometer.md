@@ -15,7 +15,7 @@ Druign first year of my studies me and my team built an accelerometer sensor. It
 It it a mass block suspended by springs with big capacitors on sides that are used for sensing the displacement and therefore the acceleration. 
 
 
-![Desktop View](/assets/2022-07-11-Project-Accelerometer/Gyroscope.jpg){: width="972" height="589" }
+![Desktop View](/assets/2022-07-11-Project-Accelerometer/Gyroscope.jpg){: width="972" height="589" .rounded-10}
 _Fnished accelerometer_
 
 ####  Report describing the project in details:

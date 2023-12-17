@@ -17,9 +17,9 @@ I aimed, for a size of 20x20x15 cm and gave 1 cm for sewing allowence.
 
 >Sewing template with exact dimentions can be downloaded here: <https://MessedUpProjects.github.io/assets/2023-11-29-Packing-cubes/packing-cube-sewing-template-Drawing-v1.pdf>
 {: .prompt-tip }
-![Desktop View](/assets/2023-11-29-Packing-cubes/cube1.jpg){: width="972" height="589" }
+![Desktop View](/assets/2023-11-29-Packing-cubes/cube1.jpg){: width="972" height="589" .rounded-10}
 
-![Desktop View](/assets/2023-11-29-Packing-cubes/cube2.jpg){: width="972" height="589" }
+![Desktop View](/assets/2023-11-29-Packing-cubes/cube2.jpg){: width="972" height="589" .rounded-10}
 _Finished cubes_
 
 > Have a nice day, Messed Up Cat ฅ^•ﻌ•^ฅ
