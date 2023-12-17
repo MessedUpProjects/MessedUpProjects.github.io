@@ -22,6 +22,10 @@ _Central compartment_
 ![Desktop View](/assets/2023-10-25-Wooden-Toolbox/toolbox2.jpg){: width="972" height="589" .rounded-10 }
 _Drawer_
 
+![Desktop View](/assets/2023-10-25-Wooden-Toolbox/Wooden-toolbox-drawing.jpg){: width="972" height="589" .rounded-10 }
+_Concept drawing of the box_
+
+
 
 ![Desktop View](/assets/2023-10-25-Wooden-Toolbox/toolboxWIP.jpg){: width="972" height="589" }
 _work in progress_
