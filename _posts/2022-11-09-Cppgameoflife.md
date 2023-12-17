@@ -10,7 +10,7 @@ mermaid: true
 render_with_liquid: false
 #comment
 ---
-C++ project I made with my friend Szczepan Letkiewicz during our C++ course at University of Twente.
+C++ project I made with my friend Szczepan Letkiewicz during our C++ course at the University of Twente.
 
 ### Main engine of the simulation
 
@@ -206,4 +206,4 @@ void Game::killCell(int row, int col) {
 
 ```
 
-Rest of the code can be found on my github: <https://github.com/MessedUpCat/Just-another-game-of-life/tree/main>
+The rest of the code can be found on my GitHub: <https://github.com/MessedUpCat/Just-another-game-of-life/tree/main>

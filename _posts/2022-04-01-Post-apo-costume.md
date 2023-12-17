@@ -1,13 +1,13 @@
 ---
-title: My post apocaliptic costume
+title: My  post-apocalyptic costume
 author: MessedUpCat
 date: 2022-04-01 21:00:00 +0100
 categories: [MessedUpProjects, Cosplay]
 tags: [Cosplay, Post-apo]
 render_with_liquid: false
 ---
-This is my post apocalyptic costume, that I wore for Elfia 2022.<br>
-Inspired by Mad Max series. Mixture of seperate projects made over the years that resulted in a wearable costume.
+This is my post-apocalyptic costume, that I wore for Elfia 2022.<br>
+Inspired by the Mad Max series. A mixture of separate projects made over the years that resulted in a wearable costume.
 I will continue to wear it for events and develop its narration. <br>
 Maybe I'll go to the Old Town with it on...
 
