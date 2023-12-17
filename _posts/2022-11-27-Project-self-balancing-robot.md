@@ -11,7 +11,7 @@ render_with_liquid: false
 #comment
 ---
 
-During my second year of study me and my team created a "robot" - platform moving on one wheel. This construction was far frpm perfect - wobbly frame and underpowered motor. But it still managed to move and stay somewhat in balance. 
+During my second year of study me and my team created a "robot" - platform moving on one wheel. This construction was far from perfect - wobbly frame and underpowered motor. But it still managed to move and stay somewhat in balance. 
 > Link to github page with the code running on the robot. <https://github.com/MessedUpCat/MOD5-Project-UT>
 {: .prompt-info }
 

@@ -7,7 +7,7 @@ tags: [woodworking, storage,toolbox]
 render_with_liquid: false
 ---
 
-During my exchange in Sweden I managed to get myself into Linholemns Makerspace - student run space where you can spend evenings building. 
+During my exchange in Sweden I managed to get myself into Linholmens Makerspace - student run space where you can spend evenings building. 
 This is where I made this toolbox to store and transport my tools. <br>
 Wooden construction, with opening on the top, and a small drawer at the bottom. Heavy but practical. 
 

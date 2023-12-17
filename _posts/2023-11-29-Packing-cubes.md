@@ -6,7 +6,7 @@ categories: [MessedUpProjects, sewing]
 tags: [packing cube, accessory,sewing]
 render_with_liquid: false
 ---
-Packing cubes are just fabric boxes wit zipper. Very helpfull when packing.  
+Packing cubes are just fabric boxes with zipper. Very helpfull when packing.  
 Those ones where designed with cloth packing in mind(socks and rolled up t-shirts). Later on I might make few bigger ones.
 I aimed, for a size of 20x20x15 cm and gave 1 cm for sewing allowence.
 

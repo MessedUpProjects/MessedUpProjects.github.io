@@ -9,7 +9,7 @@ render_with_liquid: false
 
 This is one of the first projects I designed and made with 3d printing. 
 Each seperate box stores a stack of tokens, with the main token outside used as a box lable. 
-Box is held together with magnets, which allows the main token to be easly taken off and placed on the board. 
+Box is held together with magnets, which allows the main token to be easily taken off and placed on the board. 
 It was one of the first "products" in my long-gone store.  
 
 ![Desktop View](/assets/2021-01-01-Neuroshima-hex-storage/neuroshima%201.jpg){: width="972" height="589" .rounded-10}
