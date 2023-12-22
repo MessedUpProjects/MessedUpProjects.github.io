@@ -2,7 +2,7 @@
 title: My time in RoboTeam
 author: Brunon
 date: 2023-07-11 9:00:00 +0100
-categories: [Brunon]
+categories: [Brunon, University]
 tags: [RoboTeam]
 pin: true
 math: true

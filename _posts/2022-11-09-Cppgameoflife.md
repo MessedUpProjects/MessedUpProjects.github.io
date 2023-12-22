@@ -2,7 +2,7 @@
 title: C++ Game of Life
 author: Brunon
 date: 2022-11-09 12:00:00 +0100
-categories: [Brunon]
+categories: [Brunon, University]
 tags: [University, Code]
 pin: false
 math: true

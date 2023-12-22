@@ -2,7 +2,7 @@
 title: Project self-balancing robot
 author: Brunon
 date: 2022-11-27 12:00:00 +0100
-categories: [Brunon]
+categories: [Brunon, University]
 tags: [University, Project]
 pin: false
 math: true

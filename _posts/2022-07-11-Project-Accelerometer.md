@@ -2,7 +2,7 @@
 title: Project Accelerometer
 author: Brunon
 date: 2022-07-11 12:00:00 +0100
-categories: [Brunon]
+categories: [Brunon, University]
 tags: [University, Project]
 pin: false
 math: true
