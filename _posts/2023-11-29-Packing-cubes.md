@@ -22,6 +22,6 @@ I aimed, for a size of 20x20x15 cm and gave 1 cm for sewing allowance.
 ![Desktop View](/assets/2023-11-29-Packing-cubes/cube2.jpg){: width="972" height="589" .rounded-10}
 _Finished cubes_
 
-> Have a nice day, Messed Up Cat ฅ^•ﻌ•^ฅ
 
+> Have a nice day, Messed Up Cat ฅ^•ﻌ•^ฅ
 
