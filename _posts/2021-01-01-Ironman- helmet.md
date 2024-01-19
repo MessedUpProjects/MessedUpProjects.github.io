@@ -9,7 +9,8 @@ render_with_liquid: false
 
 It's a helmet I 3D printed, painted, and mechanized for my brother.
 The face plate lifts up and the eyes shine when closed!
-Printed from files found on Thingiverse
+
+![Desktop View](/assets/2021-01-01-Iron-Man-Mask/Ironman0.jpg){: width="972" height="589" .rounded-10}
 
 ![Desktop View](/assets/2021-01-01-Iron-Man-Mask/Ironman1.jpg){: width="972" height="589" .rounded-10}
 
@@ -18,6 +19,17 @@ Printed from files found on Thingiverse
 
 ![Desktop View](/assets/2021-01-01-Iron-Man-Mask/Ironman3.jpg){: width="972" height="589" .rounded-10}
 _I hope my brother enjoys it_
+
+
+
+<center>
+<video controls>
+    <source src="/assets/2021-01-01-Iron-Man-Mask/Ironman_vid.mp4" type="video/mp4">
+</video>
+
+</center>
+
+
 
 
 >Have a nice day, Messed Up Cat ฅ^•ﻌ•^ฅ
