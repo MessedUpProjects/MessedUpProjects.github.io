@@ -5,6 +5,7 @@ date: 2022-03-15 21:00:00 +0100
 categories: [MessedUpProjects, Cosplay]
 tags: [Cosplay, Wings]
 render_with_liquid: false
+pin: true
 ---
 
 The idea of having a winged costume had been stuck in my head for years. Only when I got myself into a proper workshop I managed to construct it. 

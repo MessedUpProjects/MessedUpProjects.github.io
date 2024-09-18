@@ -2,12 +2,16 @@
 title: My time in RoboTeam
 author: Brunon
 date: 2023-07-11 9:00:00 +0100
-categories: [Brunon, University]
+categories: [Brunon, Professional]
 tags: [RoboTeam]
 pin: true
 math: true
 mermaid: true
 render_with_liquid: false
+image:
+  path: /assets/2023-07-10-My-time-at-Roboteam/rtt-logo.png
+ 
+  alt: Roboteam Twente
 #comment
 ---  
 Throughout 2022/2023 I worked as a mechanical engineer in RoboTeam Twente, a student team at my uni taking part in Small Size League of Robocup.
