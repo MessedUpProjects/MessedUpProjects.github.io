@@ -37,7 +37,7 @@ _The frankenstein contraption - guitar amp without its case_
 I even found a recording of the amp working!
 
 <center>
-<video >
+<video controls>
     <source src="Mini_amp_working.mov" type="video/mp4">
 </video>
 </center>
