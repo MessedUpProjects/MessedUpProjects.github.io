@@ -38,12 +38,12 @@ I even found a recording of the amp working!
 
 <center>
 <video controls>
-    <source src="Mini_amp_working.mov" type="video/mp4">
+    <source src="Mini_amp_working.mov" type="video/mov">
 </video>
 </center>
 
 
-The delay effect
+### The delay effect
 ![Desktop View](/assets/2025-01-05-My-PCB-Designs/echo_bender-schemat.png){: width="972" height="589" .rounded-10}
 _Schematic diagram of the echo bender delay effect_
 
