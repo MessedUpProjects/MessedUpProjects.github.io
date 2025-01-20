@@ -38,7 +38,7 @@ I even found a recording of the amp working!
 
 <center>
 <video controls>
-    <source src="Mini_amp_working.mov" type="video/mov">
+    <source src="Mini_amp_working.mov" type="video/mp4">
 </video>
 </center>
 
